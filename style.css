@@ -117,4 +117,4 @@ button {
 	font-size: 30px;
 	margin: 0;
 }
-h4:root{font-size: xx-large;} 
+h4:root{font-size: xx-large;width: var(font-size 28px);} 
